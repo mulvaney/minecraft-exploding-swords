@@ -1,0 +1,7 @@
+name: ExplodingSwords
+main: io.github.mulvaney.ExplodingSwords.Plugin
+version: ${version}
+permissions:
+  ExplodingSwords.basic:
+    description:  the basic permission
+    default: true
